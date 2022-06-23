@@ -1,7 +1,7 @@
 Feature: Example for Data Table
 
   @DataTables
-  Scenario : List of favorite city
+  Scenario: List of favorite city
     Then user want to live there
       | Ankara  |
       | Izmir   |
